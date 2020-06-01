@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:orientation="vertical"
+    tools:context=".fragmenti.PitanjeFrag"
+    android:weightSum="10">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="3">
+
+        <TextView
+            android:id="@+id/tekstPitanja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Ovo je neki tekstp itanja koji ja pojma nemam kako cuOvo je neki tekstp itanja koji ja pojma nemam kako cuOvo je neki tekstp itanja koji ja pojma nemam kako cuOvo je neki tekstp itanja koji ja pojma nemam kako cu?"
+            android:textAlignment="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/odgovoriPitanja"
+            android:layout_width="match_parent"
+            android:layout_height="250dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

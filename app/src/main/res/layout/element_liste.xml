@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maltaisn.icondialog.IconView
+        android:id="@+id/Ikonica"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:visibility="visible"
+        app:icdIcon="@+id/Ikonica"
+        android:tint="@color/plava"
+        android:backgroundTint="@color/colorBlack"
+        />
+    <TextView
+        android:id="@+id/Itemname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/kviz_name"
+        android:textSize="16sp"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/colorBlack"/>
+
+</LinearLayout>

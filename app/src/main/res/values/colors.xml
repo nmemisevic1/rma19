@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#f49842</color>
+    <color name="element_greska">#F97F87</color>
+    <color name="zelena">#7FFF00</color>
+    <color name="tamnoZelena">#00BB00</color>
+    <color name="crvena">#FF3030</color>
+    <color name="plava">#4444DD</color>
+    <color name="dirtyWhite">#FEFEFE</color>
+    <color name="darkYellow">#FFD000</color>
+    <color name="hintGray">#808080</color>
+    <color name="hintRed">#ff8284</color>
+</resources>

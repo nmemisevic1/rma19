@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Spirala 3</string>
+    <string name="kviz_name">Kviz 1</string>
+    <string name="hint_kategorije">Kategorije</string>
+    <string name="odgovori_name">Odgovori</string>
+    <string name="odgovor_name">Odgovor</string>
+    <string name="dodaj_name">Dodaj</string>
+    <string name="dodaj_tacan_name">Dodaj tacan</string>
+    <string name="spasi_pitanje_name">Spasi pitanje</string>
+    <string name="naziv_pitanja_name">Naziv pitanja - INPUT</string>
+    <string name="naziv_kviza_name">Naziv kviza - INPUT</string>
+    <string name="pitanja_u_kvizu_name">Pitanja u kvizu</string>
+    <string name="moguca_pitanja_name">Moguca pitanja</string>
+    <string name="naziv_kategorije_name">Naziv kategorije</string>
+    <string name="naziv_name">Naziv</string>
+    <string name="spasi_kategoriju_name">Spasi kategoriju</string>
+    <string name="dodaj_ikonu_name">Dodaj ikonu</string>
+    <string name="ikona_name">Ikona</string>
+    <string name="spasi_kviz_name">Spasi kviz</string>
+    <string name="dodaj_kviz_name">Dodaj kviz</string>
+    <string name="lista_kategorija_name">Lista kategorija:</string>
+    <string name="igraj_naziv_kviza_name">Naziv kviza: </string>
+    <string name="igraj_broj_tacnih_name">Broj tacnih pitanja: </string>
+    <string name="igraj_broj_preostalih_name">Broj preostalih pitanja: </string>
+    <string name="igraj_procenat_tacnih_name">Procenat tacnih odgovora: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
